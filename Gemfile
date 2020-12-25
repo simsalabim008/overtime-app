@@ -28,6 +28,8 @@ group :development do
 end
 
 gem 'devise'
+gem 'jquery-rails'
+gem 'popper_js'
 gem 'bootstrap-sass'
 gem "gritter"
 gem 'administrate'
