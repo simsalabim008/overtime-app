@@ -38,7 +38,6 @@ gem 'pundit'
 gem 'twilio-ruby'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'kaminari'
-gem 'rails_12factor'
 gem 'honeybadger'
 gem 'newrelic_rpm'
 
